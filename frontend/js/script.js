@@ -290,3 +290,5 @@ window.addEventListener("load", () => {
     }, 800);
   }, 1000);
 });
+// =================END OF SCRIPT =================
+
